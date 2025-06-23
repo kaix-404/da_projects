@@ -40,6 +40,10 @@ The same has been given in the [dataset](https://github.com/kaix-404/da_projects
     git clone https://github.com/kaix-404/da_projects.git
     cd da_projects/customer_churn_analysis
     ```
+2. Install dependencies:
+   ```bash
+   pip install -r Churn_Analysis_Req.txt
+   ```
 
 ## Usage
 
