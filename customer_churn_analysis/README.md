@@ -40,10 +40,6 @@ The same has been given in the [dataset](https://github.com/kaix-404/da_projects
     git clone https://github.com/kaix-404/da_projects.git
     cd da_projects/customer_churn_analysis
     ```
-2. Install required packages:
-    ```bash
-    pip install -r requirements.txt
-    ```
 
 ## Usage
 
@@ -51,23 +47,18 @@ The same has been given in the [dataset](https://github.com/kaix-404/da_projects
 2. Run the analysis notebooks or scripts:
     - For Jupyter Notebook:
         ```bash
-        jupyter notebook
+        Churn_Analysis.ipynb
         ```
       Open and run the notebook step by step.
-    - For Python scripts:
-        ```bash
-        python churn_analysis.py
-        ```
 
 ## Project Structure
 
 ```
 customer_churn_analysis/
 │
-├── data/                # Dataset and data processing scripts
-├── notebooks/           # Jupyter Notebooks for EDA and modeling
-├── churn_analysis.py    # Main script for churn analysis
-├── requirements.txt     # Python dependencies
+├── dataset/             # Dataset and data processing scripts
+├── notebook/            # Jupyter Notebook for EDA and modeling
+├── presentation/        # Presentation Report
 └── README.md            # Project documentation
 ```
 
