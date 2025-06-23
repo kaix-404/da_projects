@@ -5,7 +5,7 @@ This directory contains materials and analyses related to the performance of ret
 ## Table of Contents
 
 - [Project Overview](#project-overview)
-- [Features](#features)
+- [Structure](#structure)
 - [Data](#data)
 - [Installation](#installation)
 - [Usage](#usage)
@@ -34,7 +34,13 @@ Typical contents of this directory may include:
 - **Reports**: PDF or Markdown reports summarizing findings and recommendations.
 - **Visualizations**: Images or interactive dashboards with key charts and insights.
 
-## Getting Started
+##Data
+
+The dataset for this project has been taken from [Vivek's Superstore Dataset on Kaggle](https://www.kaggle.com/datasets/vivek468/superstore-dataset-final).
+
+The same has been given in the dataset folder as the [Initial Dataset](https://github.com/kaix-404/da_projects/blob/main/retail_business_performance/dataset/Sample%20-%20Superstore.csv)
+
+## Installation
 
 1. **Clone the repository:**
    ```bash
@@ -48,16 +54,33 @@ Typical contents of this directory may include:
    ```
 
 3. **Open and run notebooks:**  
-   Use Jupyter Notebook or your preferred environment to explore the analysis notebooks.
+   Use Jupyter Notebook or your preferred environment to explore the analysis notebook.
 
 ## Usage
 
-You can use the scripts and notebooks to:
+You can use the notebook to:
 
 - Analyze retail sales and profitability
 - Generate visualizations for business presentations
 - Perform ad-hoc queries on retail datasets
 - Extend the analysis with your own data or models
+
+## Project Structure
+
+```
+retail_business_performance/
+│
+├── dataset/             # Dataset and data processing scripts
+├── notebook/            # Jupyter Notebook for EDA and modeling
+├── analysis/            # Tableau analysis of final data
+├── report/              # PDF report
+└── README.md            # Project documentation
+```
+
+## Results
+
+- Summarise reasons for overstocking and relations between profitability and other factors.
+- Example: "Office Supplies account for the most overstocked items."
 
 ## Contributing
 
@@ -66,7 +89,3 @@ Contributions are welcome! Please open an issue or submit a pull request if you'
 ## License
 
 This project is licensed under the MIT License. See the [LICENSE](../LICENSE) file for details.
-
-## Contact
-
-For questions or collaboration, please contact [kaix-404](https://github.com/kaix-404).
