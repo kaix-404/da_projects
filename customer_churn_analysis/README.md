@@ -68,7 +68,7 @@ customer_churn_analysis/
 
 ## Results
 
-- Summarize key findings here or link to results/plots.
+- Summarise key findings here or link to results/plots.
 - Example: "The random forest model achieved 85% accuracy in predicting churn."
 
 ## Contributing
