@@ -31,9 +31,8 @@ Typical contents of this directory may include:
    ```
 
 2. **Set up your environment:**  
-   Install required dependencies, typically using `requirements.txt` or `environment.yml` if available.
    ```bash
-   pip install -r requirements.txt
+   pip install -r Retail_Performance_Req.txt
    ```
 
 3. **Open and run notebooks:**  
