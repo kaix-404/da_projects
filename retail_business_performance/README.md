@@ -2,7 +2,19 @@
 
 This directory contains materials and analyses related to the performance of retail businesses. It is part of the `da_projects` repository, which houses various data analytics projects.
 
-## Overview
+## Table of Contents
+
+- [Project Overview](#project-overview)
+- [Features](#features)
+- [Data](#data)
+- [Installation](#installation)
+- [Usage](#usage)
+- [Project Structure](#project-structure)
+- [Results](#results)
+- [Contributing](#contributing)
+- [License](#license)
+
+## Project Overview
 
 The purpose of the `retail_business_performance` project is to analyze and visualize key performance metrics for retail businesses. The analyses may include, but are not limited to:
 
