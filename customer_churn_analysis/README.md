@@ -30,8 +30,7 @@ Customer churn refers to the loss of customers over time. Predicting churn enabl
 ## Data
 
 The dataset used for this project is https://www.kaggle.com/datasets/mnassrib/telecom-churn-datasets
-
-> **Note:** Replace with actual dataset details if available.
+The same has been given in the [dataset](https://github.com/kaix-404/da_projects/tree/main/customer_churn_analysis/dataset) folder.
 
 ## Installation
 
